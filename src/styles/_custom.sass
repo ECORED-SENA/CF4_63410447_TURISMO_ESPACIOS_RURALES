@@ -2,14 +2,39 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    left: 15%
+    top: 50%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    bottom: 8%
+    right: 22%
+  &-3
+    animation: float1 3s ease-in-out infinite alternate
+    position: absolute
+    top: 8%
+    right: 17%
 
+.banner-interno
+  height: 150px
+  .banner-interno__fondo
+    background-position: right top
+    background-image: url(../assets/curso/fondo_tema.png) !important
+
+//Banners
+.banner-principal__row
+  .banner-principal__img
+    padding-top: 2rem !important
+    padding-bottom: 2rem !important
+    img
+      margin-left: auto
+      max-width: 416px
+.banner-principal .tarjeta
+  background-position: inherit
+  @media screen and (max-width: $bp-max-md)
+    background-image: url(../assets/curso/portada/fondo-banner-principal-md.png) !important
+  @media screen and (max-width: $bp-max-xs)
+    background-image: url(../assets/curso/portada/fondo-banner-principal-movil.png) !important
 
 @keyframes float1
   0%
@@ -18,3 +43,161 @@
   100%
     transform: translateY(0px)
 
+//colores
+.fondo-color-sistema-h
+  background-color: $color-sistema-h
+.fondo-color-sistema-i
+  background-color: $color-sistema-i
+.fondo-color-sistema-j
+  background-color: $color-sistema-j
+.fondo-color-sistema-k
+  background-color: $color-sistema-k
+.fondo-color-sistema-l
+  background-color: $color-sistema-l
+.fondo-color-sistema-m
+  background-color: $color-sistema-m
+.fondo-color-acento-contenido
+  background-color: $color-acento-contenido
+
+
+//fondos
+.fondo-personalizado-1
+  position: relative
+  &:before
+    content: ""
+    position: absolute
+    width: 108%
+    left: -4%
+    @media screen and (max-width: $bp-max-xl)
+      width: 110%
+      left: -5%
+    @media screen and (max-width: $bp-max-lg)
+      width: 112%
+      left: -6%
+    @media screen and (max-width: $bp-max-md)
+      width: 116%
+      left: -8%
+    @media screen and (max-width: $bp-max-sm)
+      width: 110%
+      left: -5%
+    @media screen and (max-width: 520px)
+      width: 120%
+      left: -10%
+    top: 0
+    bottom: 0
+    z-index: 0
+    background-repeat: no-repeat
+    background-position: top
+    background-size: cover
+  &.no-tam-full
+    &:before
+      left: 0 !important
+      width: 100% !important
+  &.size-full
+    &:before
+      background-size: 100%
+    &.med
+      @media screen and (max-width: $bp-max-md)
+        &:before
+          background-size: cover
+  &.pos-center
+    &:before
+      background-position: center
+  &.top-1
+    &:before
+     top: 80px 
+  &.bottom-1
+    &:before
+     bottom: 80px 
+  &.f1
+    &:before
+      background-image: url(../assets/curso/temas/2.png)
+  &.f2
+    &:before
+      background-image: url(../assets/curso/temas/4.png)
+  &.f3
+    &:before
+      background: rgb(227,234,226)
+      background: linear-gradient(180deg, rgba(227,234,226,0) 0%, rgba(227,234,226,1) 25%, rgba(227,234,226,1) 75%, rgba(227,234,226,0) 100%)
+  &__contenido
+    position: relative
+
+//bordes
+.no-borde
+  border: none !important
+.borde-8
+  border-radius: 8px
+.borde-9
+  border-radius: 9px
+.borde-10
+  border-radius: 10px
+.borde-12
+  border-radius: 12px
+.borde-14
+  border-radius: 14px
+.borde-15
+  border-radius: 15px
+.borde-18
+  border-radius: 18px
+.borde-20
+  border-radius: 20px
+.borde-22
+  border-radius: 22px
+.borde-23
+  border-radius: 23px
+
+//tarjetas
+.tarjeta-p-1
+  background-image: url(../assets/curso/temas/6.svg)
+  &:hover
+    background-image: url(../assets/curso/temas/7.svg)
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  border-radius: 14px
+  height: 100%
+  .cont-titulo
+  @media screen and (max-width: $bp-max-md)
+    min-height: 50px
+
+.tarjeta-p-2
+  background-color: #E3EAE2
+  height: 100%
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: bottom
+  background-image: url(../assets/curso/temas/19.svg)
+  &.f2
+    background-image: url(../assets/curso/temas/21.svg)
+//titulos
+.titulo-decorativo
+  position: relative
+  display: inline-flex
+  align-items: center
+  &::before
+    content: ""
+    position: absolute
+    background-color: $color-acento-contenido
+    top: 20px
+    bottom: 15px
+    left: 10px
+    right: 0
+    z-index: 0
+    border-radius: 19px
+    border-bottom: 4px solid $white
+  .cont-text 
+    position: relative
+    h3
+      margin: 0
+      padding: 1.5rem 0 
+      margin-left: 0.5rem
+      margin-right: 1.5rem
+      @media screen and (max-width: $bp-max-xs)
+        margin-right: 0.5rem
+
+  .cont-figura
+    position: relative
+    img
+      max-width: 51px
+      min-width: 51px
+      margin-top: 0.2rem
