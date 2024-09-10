@@ -111,10 +111,10 @@
     
     p.mb-4 Este departamento se destaca por su riqueza natural y la variedad de actividades que ofrece, desde el ecoturismo hasta la exploración cultural. Los antecedentes del turismo rural en el departamento del Quindío:
 
-    .fondo-personalizado-1.no-tam-full.f5.borde-15.overflow-hidden
+    .fondo-personalizado-1.no-tam-full.f5.borde-15.overflow-hidden.mb-4
       .fondo-personalizado-1__contenido.p-4
         PasosB.pasos-personalizado-1
-          .row.justify-content-center.pb-4(titulo="Lactosa")
+          .row.justify-content-center.pb-4(titulo="1990")
             .col-lg-11
               .row
                 .col-md-auto
@@ -122,7 +122,118 @@
                     img.mx-auto(src="@/assets/curso/temas/58.png",style="max-width: 85px;")
                 .col
                   h4.mb-3.mb-lg-4 1990
-                  p.mb-0 Crisis de los mercados internacionales que afecta a los cultivadores de café en el Eje Cafetero. 
+                  p.mb-0 Crisis de los mercados internacionales que afecta a los cultivadores de café en el Eje Cafetero.
+          .row.justify-content-center.pb-4(titulo="1991")
+            .col-lg-11 
+              .row
+                .col-md-auto
+                  figure.mb-4.mb-md-0
+                    img.mx-auto(src="@/assets/curso/temas/60.png",style="max-width: 85px;")
+                .col
+                  h4.mb-3.mb-lg-4 1991
+                  p.mb-0 Propuesta del Fondo Mixto de Promoción Turística del Quindío para evaluar la viabilidad de convertir fincas cafeteras en alojamientos turísticos. 
+          .row.justify-content-center.pb-4(titulo="1992")
+            .col-lg-11 
+              .row
+                .col-md-auto
+                  figure.mb-4.mb-md-0
+                    img.mx-auto(src="@/assets/curso/temas/61.png",style="max-width: 85px;")
+                .col
+                  h4.mb-3.mb-lg-4 1992
+                  p.mb-0 Primeras 315 personas se alojan en fincas cafeteras. Se firma un convenio de cooperación técnica entre España y Colombia, dando lugar al Plan Estratégico de Desarrollo Turístico Rural del Eje Cafetero. 
+          .row.justify-content-center.pb-4(titulo="1994")
+            .col-lg-11 
+              .row
+                .col-md-auto
+                  figure.mb-4.mb-md-0
+                    img.mx-auto(src="@/assets/curso/temas/62.png",style="max-width: 85px;")
+                .col
+                  h4.mb-3.mb-lg-4 1994
+                  p.mb-0 46 fincas registradas, con 7.916 personas hospedadas. El Fondo de Promoción Turística del Quindío contrata un estudio con la Universidad Externado de Colombia para capacitar a propietarios y empleados de fincas.
+          .row.justify-content-center.pb-4(titulo="1995")
+            .col-lg-11 
+              .row
+                .col-md-auto
+                  figure.mb-4.mb-md-0
+                    img.mx-auto(src="@/assets/curso/temas/63.png",style="max-width: 85px;")
+                .col
+                  h4.mb-3.mb-lg-4 1995
+                  p.mb-0 90 fincas registradas. Inauguración del Parque Nacional del Café, lo que incrementa la demanda de alojamientos rurales.
+          .row.justify-content-center.pb-4(titulo="1996")
+            .col-lg-11 
+              .row
+                .col-md-auto
+                  figure.mb-4.mb-md-0
+                    img.mx-auto(src="@/assets/curso/temas/64.png",style="max-width: 85px;")
+                .col
+                  h4.mb-3.mb-lg-4 1996
+                  p.mb-0 El Estudio de Competitividad Turística define al Eje Cafetero como el #[em Cluster] Cafetero. Se formula un Plan Estratégico de Turismo Rural con apoyo del Ministerio de Desarrollo Económico y el gobierno español.
+          .row.justify-content-center.pb-4(titulo="1997")
+            .col-lg-11 
+              .row
+                .col-md-auto
+                  figure.mb-4.mb-md-0
+                    img.mx-auto(src="@/assets/curso/temas/65.png",style="max-width: 85px;")
+                .col
+                  h4.mb-3.mb-lg-4 1997
+                  p.mb-0 El Ministerio de Desarrollo Económico contrata un estudio de competitividad para el #[em cluster] turístico del Eje Cafetero, que sirve de base para el Plan de Desarrollo Turístico de 1999.
+          .row.justify-content-center.pb-4(titulo="1998")
+            .col-lg-11 
+              .row
+                .col-md-auto
+                  figure.mb-4.mb-md-0
+                    img.mx-auto(src="@/assets/curso/temas/66.png",style="max-width: 85px;")
+                .col
+                  h4.mb-3.mb-lg-4 1998
+                  p.mb-0 Creación del Consejo Regional de Turismo del Eje Cafetero (CORRETUR). Inauguración del Parque Temático Agropecuario PANACA.
+          .row.justify-content-center.pb-4(titulo="2004")
+            .col-lg-11 
+              .row
+                .col-md-auto
+                  figure.mb-4.mb-md-0
+                    img.mx-auto(src="@/assets/curso/temas/67.png",style="max-width: 85px;")
+                .col
+                  h4.mb-3.mb-lg-4 2004
+                  p.mb-0 Según Luis Fernando Ramírez, secretario de Turismo y Cultura, ya había 600 fincas ofreciendo servicios de alojamiento rural en el Quindío.
+          .row.justify-content-center.pb-4(titulo="2010")
+            .col-lg-11 
+              .row
+                .col-md-auto
+                  figure.mb-4.mb-md-0
+                    img.mx-auto(src="@/assets/curso/temas/68.png",style="max-width: 85px;")
+                .col
+                  h4.mb-3.mb-lg-4 2010
+                  p.mb-0 El Eje Cafetero es declarado Patrimonio de la Humanidad por la UNESCO bajo el nombre de "Paisaje Cultural Cafetero de Colombia," lo que impulsa aún más el turismo rural en la región.
+          .row.justify-content-center.pb-4(titulo="2019")
+            .col-lg-11 
+              .row
+                .col-md-auto
+                  figure.mb-4.mb-md-0
+                    img.mx-auto(src="@/assets/curso/temas/69.png",style="max-width: 85px;")
+                .col
+                  h4.mb-3.mb-lg-4 2019
+                  p.mb-0 Inauguración de nuevos atractivos turísticos como el "Parque de la Cultura Agropecuaria" en Quimbaya, que complementa la oferta de turismo rural en la región.
+          .row.justify-content-center.pb-4(titulo="2021")
+            .col-lg-11 
+              .row
+                .col-md-auto
+                  figure.mb-4.mb-md-0
+                    img.mx-auto(src="@/assets/curso/temas/70.png",style="max-width: 85px;")
+                .col
+                  h4.mb-3.mb-lg-4 2021
+                  p.mb-0 El Ministerio de Comercio, Industria y Turismo lanza la campaña "Viaja por Colombia," enfocando esfuerzos en reactivar el turismo rural, con el Eje Cafetero como uno de los principales destinos.
+
+    p.mb-4 Al tiempo que se desarrollaban y crecían los alojamientos turísticos rurales, en las capitales de los departamentos se fue dando el desarrollo de la industria hotelera de calidad. En la actualidad, la Secretaría de Turismo del departamento viene promoviendo y apoyando las empresas promotoras y prestadoras de servicios turísticos con asistencia técnica, capacitación y con la implementación del Club de Calidad “Haciendas del Café” que ofrecen servicios de alta calidad.
+
+    .row.justify-content-center
+      .col-lg-10
+        .fondo-color-sistema-j.p-4
+          .row.align-items-center
+            .col-lg-7
+              p.mb-0 Los alojamientos rurales, parques temáticos, y las actividades turísticas, deportivas y recreativas #[em (parapente, balsaje por ríos, canopy, recorridos a caballo…)], en auge en la región cafetera, demuestran la apuesta por el turismo rural en el departamento del Quindío.
+            .col-lg-5.order-first.order-lg-last
+              figure.mb-4.mb-lg-0
+                img.mx-auto(src="@/assets/curso/temas/71.png",style="max-width: 290px;")
 
 
 </template>
