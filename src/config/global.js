@@ -238,8 +238,14 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Julio Hernán Beltrán Peñuela',
+          cargo: 'Experto temático',
+          centro:
+            'Centro de Desarrollo Agroempresarial - Regional Cundinamarca',
+        },
+        {
+          nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Evaluadora instruccional',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -248,18 +254,13 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Carlos Julián Ramírez Benítez',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Edwin Sneider Velandia Suárez',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
@@ -268,23 +269,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          nombre: 'Margarita Marcela Medrano Gómez',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Margarita Marcela Medrano Gómez',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],

@@ -60,6 +60,8 @@
   background-color: $color-sistema-n
 .fondo-color-sistema-o
   background-color: $color-sistema-o
+.fondo-color-sistema-p
+  background-color: $color-sistema-p
 .fondo-color-acento-contenido
   background-color: $color-acento-contenido
 
@@ -349,3 +351,21 @@
     background-color: $color-acento-botones
     border: none
     color: white
+
+//acordion
+.acordion-personalizado-1
+  .tarjeta
+    .acordion__header
+      margin-bottom: 0.7rem !important
+    padding-right: 1rem !important
+    padding-left: 1rem !important
+    padding-top: 0.7rem !important
+    border-radius: 10px
+    background-color: $color-sistema-p
+    &.acordion__activo
+      background-color: $color-sistema-m
+  .acordion__accion__btn--a
+    width: 50px
+    height: 50px
+    background-color: $color-acento-botones !important
+    color: $white
