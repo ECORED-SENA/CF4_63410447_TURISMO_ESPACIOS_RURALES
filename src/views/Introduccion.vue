@@ -23,7 +23,7 @@
               p.mb-0(data-aos="fade-down") En Colombia, el Eje Cafetero se ha consolidado como el principal referente del turismo rural, combinando la belleza de sus paisajes con la riqueza cultural de sus fincas tradicionales. Esta zona ha aprovechado su potencial turístico, desarrollando infraestructuras y servicios que permiten a los visitantes disfrutar de una experiencia auténtica en contacto con la naturaleza y la vida rural.
         
         .fondo-color-sistema-k.p-4.mb-4(data-aos="zoom-in-out")
-          p El presente documento ofrece un análisis detallado del desarrollo del turismo rural en Colombia, con énfasis en el Departamento del Quindío, donde se han implementado políticas y normativas específicas para regular y promover esta actividad. A través de un recorrido por la evolución del turismo rural en el país, se destacan los logros alcanzados y los desafíos que aún enfrenta este sector clave para el desarrollo regional.
+          p El presente documento ofrece un análisis detallado del desarrollo del turismo rural en Colombia, con énfasis en el departamento del Quindío, donde se han implementado políticas y normativas específicas para regular y promover esta actividad. A través de un recorrido por la evolución del turismo rural en el país, se destacan los logros alcanzados y los desafíos que aún enfrenta este sector clave para el desarrollo regional.
 
 </template>
 

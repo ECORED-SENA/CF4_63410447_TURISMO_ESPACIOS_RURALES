@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'El turismo rural en el mundo',
     descripcionCurso:
-      'Este componente formativo ofrece una visión global del turismo rural en distintas regiones, como Norteamérica, América Latina y Europa, destacando su desarrollo en Colombia, especialmente en el Eje Cafetero. Incluye antecedentes históricos, normatividad vigente en el Departamento del Quindío, y estrategias para fomentar el turismo rural como herramienta para el desarrollo económico y social de las comunidades rurales.',
+      'Este componente formativo ofrece una visión global del turismo rural en distintas regiones, como Norteamérica, América Latina y Europa, destacando su desarrollo en Colombia, especialmente en el Eje Cafetero. Incluye antecedentes históricos, normatividad vigente en el departamento del Quindío, y estrategias para fomentar el turismo rural como herramienta para el desarrollo económico y social de las comunidades rurales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -268,6 +268,11 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
+        {
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de recursos educativos digitales',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
         {
           nombre: 'Margarita Marcela Medrano Gómez',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',

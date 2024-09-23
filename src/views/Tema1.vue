@@ -232,7 +232,7 @@
           .row.justify-content-center
             .col-lg-6.mb-4.mb-lg-0
               h4.mb-5 Uruguay
-              p.mb-0 La Universidad de la República y la Asociación de Ingenieros Agrónomos del Uruguay ofrecen cursos en Turismo Rural. La Universidad de la Empresa desarrolla un Diploma en Turismo Rural. El sector se concentra en estancias y hoteles de campo, con SUTUR y la Asociación Rural de Uruguay liderando el desarrollo.
+              p.mb-0 La Universidad de la República y la Asociación de Ingenieros Agrónomos del Uruguay ofrecen cursos en Turismo Rural. La Universidad de la Empresa desarrolla un diploma en Turismo Rural. El sector se concentra en estancias y hoteles de campo, con SUTUR y la Asociación Rural de Uruguay liderando el desarrollo.
             .col-lg-5
               figure
                 img.mx-auto(src="@/assets/curso/temas/32.png",style="max-width: 404px;")
@@ -303,21 +303,21 @@
           .row.justify-content-center
             .col-lg-6.mb-4.mb-lg-0
               h4.mb-5 Austria
-              p.mb-0 La estructura hotelera es familiar, centrada en alojamientos privados y agroturismo. La Asociación de Vacaciones Rurales da directrices a los miembros, la mayoría agricultores, y controla la oferta turística. El marketing es la fortaleza del turismo rural austriaco, con agricultores gestionando el 25% de las camas turísticas.
+              p.mb-0 La estructura hotelera es familiar, centrada en alojamientos privados y agroturismo. La Asociación de Vacaciones Rurales da directrices a los miembros, la mayoría agricultores, y controla la oferta turística. El #[em marketing] es la fortaleza del turismo rural austriaco, con agricultores gestionando el 25 % de las camas turísticas.
             .col-lg-5
               figure
                 img.mx-auto(src="@/assets/curso/temas/39.png",style="max-width: 404px;")
           .row.justify-content-center
             .col-lg-6.mb-4.mb-lg-0
               h4.mb-5 Italia
-              p.mb-0 Toscana fue la primera región en lanzarse al turismo rural en 1965 con la creación de #[em AGRITURIST]. La oferta se centra en hotelería y agroturismo, con agricultores que brindan alimentación y alojamiento. Para 1998, existían 8,500 establecimientos agroturísticos con capacidad para 1.25 millones de camas.
+              p.mb-0 Toscana fue la primera región en lanzarse al turismo rural en 1965 con la creación de AGRITURIST. La oferta se centra en hotelería y agroturismo, con agricultores que brindan alimentación y alojamiento. Para 1998, existían 8.500 establecimientos agroturísticos con capacidad para 1,25 millones de camas.
             .col-lg-5
               figure
                 img.mx-auto(src="@/assets/curso/temas/40.png",style="max-width: 404px;")
           .row.justify-content-center
             .col-lg-6.mb-4.mb-lg-0
               h4.mb-5 Reino Unido
-              p.mb-0 Precursor del turismo rural europeo, con variedad de iniciativas. Su promoción inicial se orientó al turismo doméstico, con una oferta compuesta por pequeñas hotelerías rurales, casas granjas, #[em Bed and Breakfast], y camping. Sin embargo, carece de una promoción unificada. Alrededor de 24,000 agricultores ofrecen alojamiento, y 17,000 cabalgatas.
+              p.mb-0 Precursor del turismo rural europeo, con variedad de iniciativas. Su promoción inicial se orientó al turismo doméstico, con una oferta compuesta por pequeñas hotelerías rurales, casas granjas, #[em Bed and Breakfast], y camping. Sin embargo, carece de una promoción unificada. Alrededor de 24.000 agricultores ofrecen alojamiento, y 17.000 cabalgatas.
             .col-lg-5
               figure
                 img.mx-auto(src="@/assets/curso/temas/41.png",style="max-width: 404px;")
@@ -331,7 +331,7 @@
           .row.justify-content-center
             .col-lg-6.mb-4.mb-lg-0
               h4.mb-5 España
-              p.mb-0 El turismo rural se ha desarrollado regionalmente desde los 70's, con un enfoque en agroturismo y villas turísticas. PRODINTUR es parte del Plan de Desarrollo Integral del Turismo (PLAN DIA), que busca dinamizar áreas rurales.
+              p.mb-0 El turismo rural se ha desarrollado regionalmente desde los años 70, con un enfoque en agroturismo y villas turísticas. PRODINTUR es parte del Plan de Desarrollo Integral del Turismo (PLAN DIA), que busca dinamizar áreas rurales.
             .col-lg-5
               figure
                 img.mx-auto(src="@/assets/curso/temas/43.png",style="max-width: 404px;")

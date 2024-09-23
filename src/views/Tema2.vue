@@ -12,7 +12,7 @@
         .row.align-items-center.mb-4
           .col-lg-9
             .fondo-color-sistema-l.p-4.p-lg-5(data-aos="fade-right")
-              p.mb-0 En Colombia, se considera que la población rural representa un 31% del total, lo que equivale aproximadamente a 11.800.000 personas, al definir como rural a quienes no residen en cabeceras municipales. Sin embargo, al ampliar la definición de lo rural para incluir a aquellas poblaciones en cabeceras municipales con menos de 10.000 habitantes, se estima que la población rural asciende al 42% del total, es decir, alrededor de 13 millones de personas. Este dato subraya la importancia del carácter rural del país, justificando la necesidad de políticas y planes que impulsen el turismo rural en todo el territorio nacional.
+              p.mb-0 En Colombia, se considera que la población rural representa un 31 % del total, lo que equivale aproximadamente a 11.800.000 personas, al definir como rural a quienes no residen en cabeceras municipales. Sin embargo, al ampliar la definición de lo rural para incluir a aquellas poblaciones en cabeceras municipales con menos de 10.000 habitantes, se estima que la población rural asciende al 42 % del total, es decir, alrededor de 13 millones de personas. Este dato subraya la importancia del carácter rural del país, justificando la necesidad de políticas y planes que impulsen el turismo rural en todo el territorio nacional.
           .col-lg-3.order-first.order-lg-last(data-aos="fade-left")
             figure.mb-4.mb-lg-0
               img.mx-auto(src="@/assets/curso/temas/46.png",style="max-width: 295px;")
@@ -34,7 +34,7 @@
               figure.mb-4.mb-lg-0
                 img.mx-auto(src="@/assets/curso/temas/48.png",style="max-width: 270px;")
             .col-lg-7.mb-3
-              h3.text-white.mb-4 Podcast
+              h3.text-white.mb-4 Pódcast
               TarjetaAudio.tarjeta-p-3(
                 texto="El suelo como sistema"
                 :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
@@ -140,7 +140,7 @@
                     img.mx-auto(src="@/assets/curso/temas/61.png",style="max-width: 85px;")
                 .col
                   h4.mb-3.mb-lg-4 1992
-                  p.mb-0 Primeras 315 personas se alojan en fincas cafeteras. Se firma un convenio de cooperación técnica entre España y Colombia, dando lugar al Plan Estratégico de Desarrollo Turístico Rural del Eje Cafetero. 
+                  p.mb-0 Las primeras 315 personas se alojan en fincas cafeteras. Se firma un convenio de cooperación técnica entre España y Colombia, dando lugar al Plan Estratégico de Desarrollo Turístico Rural del Eje Cafetero. 
           .row.justify-content-center.pb-4(titulo="1994")
             .col-lg-11 
               .row
@@ -230,7 +230,7 @@
         .fondo-color-sistema-j.p-4
           .row.align-items-center
             .col-lg-7
-              p.mb-0 Los alojamientos rurales, parques temáticos, y las actividades turísticas, deportivas y recreativas #[em (parapente, balsaje por ríos, canopy, recorridos a caballo…)], en auge en la región cafetera, demuestran la apuesta por el turismo rural en el departamento del Quindío.
+              p.mb-0 Los alojamientos rurales, parques temáticos, y las actividades turísticas, deportivas y recreativas (parapente, balsaje por ríos, #[em canopy], recorridos a caballo…), en auge en la región cafetera, demuestran la apuesta por el turismo rural en el departamento del Quindío.
             .col-lg-5.order-first.order-lg-last
               figure.mb-4.mb-lg-0
                 img.mx-auto(src="@/assets/curso/temas/71.png",style="max-width: 290px;")
@@ -270,7 +270,7 @@
         .ps-md-5.ms-md-3
           .row.align-items-center
             .col-lg-8.mb-4.mb-lg-0
-              p.mb-0 Se consideran establecimientos de alojamiento rural aquellos localizados en zonas rurales definidas por los Planes de Ordenamiento Territorial de los municipios del departamento, así como en cascos urbanos de municipios con una población máxima de 10,000 habitantes.
+              p.mb-0 Se consideran establecimientos de alojamiento rural aquellos localizados en zonas rurales definidas por los Planes de Ordenamiento Territorial de los municipios del departamento, así como en cascos urbanos de municipios con una población máxima de 10.000 habitantes.
             .col-lg-4
               figure
                 img.mx-auto(src="@/assets/curso/temas/75.png",style="max-width: 210px;")
@@ -297,7 +297,7 @@
           .row.justify-content-center
             .col-lg-6.mb-4.mb-lg-0
               h4.mb-5 Hotel rural
-              p.mb-0 Establecimientos en zonas rurales o poblaciones menores de 30,000 habitantes, alquilados por habitaciones, con baños, zonas comunes y servicio de comedor o restaurante.
+              p.mb-0 Establecimientos en zonas rurales o poblaciones menores de 30.000 habitantes, alquilados por habitaciones, con baños, zonas comunes y servicio de comedor o restaurante.
             .col-lg-5
               figure
                 img.mx-auto(src="@/assets/curso/temas/77.png",style="max-width: 404px;")
