@@ -21,7 +21,7 @@
 
         figure.mb-4(data-aos="zoom-in-up")
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/SqlRrZ6Aj18?si=v8jmfLACguVHGzeZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/YIpnqZRTYZU?si=pvM37qTpMeHQTD_r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
           figcaption Video. El turismo rural en Colombia
 
     p.mb-4(data-aos="fade-right") El Plan Nacional de Desarrollo 2022-2026 #[b “Colombia, Potencia Mundial de la Vida”] dedica un capítulo al sector turístico titulado #[b Turismo como motor del desarrollo económico y social] en el cual, después de una introducción y diagnóstico actualizados, se plantean los siguientes lineamientos estratégicos:
@@ -36,8 +36,8 @@
             .col-lg-7.mb-3
               h3.text-white.mb-4 Pódcast
               TarjetaAudio.tarjeta-p-3(
-                texto="El suelo como sistema"
-                :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+                texto="El Turismo como motor del desarrollo económico y social"
+                :audio="require('@/assets/componentes/audios/Turismo.mp3')"
                 tiempo
               )
 
