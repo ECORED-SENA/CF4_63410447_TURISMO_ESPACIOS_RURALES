@@ -183,7 +183,7 @@
           .row.justify-content-center
             .col-lg-6.mb-4.mb-lg-0
               h4.mb-5 Chile
-              p.mb-0 INDAP está promoviendo el Turismo Rural con la "Guía Chilena de Turismo Rural" y "La Bitácora". El interés por el Agroturismo se centra entre las regiones de Coquimbo y Los Lagos, con desarrollo de pequeñas hotelerías y camping. Existe la Asociación Chilena de Turismo Rural (ACHITUR).
+              p.mb-0 INDAP está promoviendo el Turismo Rural con la "Guía Chilena de Turismo Rural" y "La Bitácora". El interés por el Agroturismo se centra entre las regiones de Coquimbo y Los Lagos, con desarrollo de pequeñas hotelerías y #[i camping]. Existe la Asociación Chilena de Turismo Rural (ACHITUR).
             .col-lg-5
               figure
                 img.mx-auto(src="@/assets/curso/temas/25.png",style="max-width: 404px;")
@@ -289,14 +289,14 @@
           .row.justify-content-center
             .col-lg-6.mb-4.mb-lg-0
               h4.mb-5 Alemania
-              p.mb-0 Iniciado en los 30's con el programa #[em Sommerfrische]. Actualmente, la oferta se concentra en hoteles gestionados por familias y alojamientos en granjas. El sector público promueve y comercializa el turismo por regiones. En 1966 se publicó la primera guía de alojamiento turístico en granjas, con 2,000 gestionadas por AGRARTUR en 1986.
+              p.mb-0 Iniciado en los 30 con el programa #[em Sommerfrische]. Actualmente, la oferta se concentra en hoteles gestionados por familias y alojamientos en granjas. El sector público promueve y comercializa el turismo por regiones. En 1966 se publicó la primera guía de alojamiento turístico en granjas, con 2,000 gestionadas por AGRARTUR en 1986.
             .col-lg-5
               figure
                 img.mx-auto(src="@/assets/curso/temas/37.png",style="max-width: 404px;")
           .row.justify-content-center
             .col-lg-6.mb-4.mb-lg-0
               h4.mb-5 Francia
-              p.mb-0 El turismo rural comenzó tras la Segunda Guerra Mundial para revitalizar el medio rural. Creación de Logis de France en 1948 y la Federación Nacional de #[em Gîtes] de France en 1965. La oferta incluye alojamientos rurales, campings en granjas, y #[em gîtes ruraux]. #[em Gîtes] de France gestiona la promoción con una estructura comercial sólida.
+              p.mb-0 El turismo rural comenzó tras la Segunda Guerra Mundial para revitalizar el medio rural. Creación de Logis de France en 1948 y la Federación Nacional de #[em Gîtes] de France en 1965. La oferta incluye alojamientos rurales, #[i campings] en granjas, y #[em gîtes ruraux]. #[em Gîtes] de France gestiona la promoción con una estructura comercial sólida.
             .col-lg-5
               figure
                 img.mx-auto(src="@/assets/curso/temas/38.png",style="max-width: 404px;")
@@ -317,7 +317,7 @@
           .row.justify-content-center
             .col-lg-6.mb-4.mb-lg-0
               h4.mb-5 Reino Unido
-              p.mb-0 Precursor del turismo rural europeo, con variedad de iniciativas. Su promoción inicial se orientó al turismo doméstico, con una oferta compuesta por pequeñas hotelerías rurales, casas granjas, #[em Bed and Breakfast], y camping. Sin embargo, carece de una promoción unificada. Alrededor de 24.000 agricultores ofrecen alojamiento, y 17.000 cabalgatas.
+              p.mb-0 Precursor del turismo rural europeo, con variedad de iniciativas. Su promoción inicial se orientó al turismo doméstico, con una oferta compuesta por pequeñas hotelerías rurales, casas granjas, #[em Bed and Breakfast], y #[i camping]. Sin embargo, carece de una promoción unificada. Alrededor de 24.000 agricultores ofrecen alojamiento, y 17.000 cabalgatas.
             .col-lg-5
               figure
                 img.mx-auto(src="@/assets/curso/temas/41.png",style="max-width: 404px;")
